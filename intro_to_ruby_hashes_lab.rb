@@ -3,7 +3,7 @@ def new_hash
 end
 
 def actor
- h = Hash.new[
+
 end
 
 def monopoly
