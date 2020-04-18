@@ -3,7 +3,8 @@ def new_hash
 end
 
 def actor(name)
- actor = {} << "#{name}"
+ actor = {} 
+ puts ("#{name}")
  actor
 end
 
