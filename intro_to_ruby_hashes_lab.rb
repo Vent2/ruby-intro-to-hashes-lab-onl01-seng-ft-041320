@@ -4,7 +4,7 @@ end
 
 def actor(name)
  actor = {
-	 name: "#{name}"
+	 key: "#{name}"
  }
 end
 
