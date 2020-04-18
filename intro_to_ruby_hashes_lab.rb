@@ -3,10 +3,9 @@ def new_hash
 end
 
 def actor(name)
- actor = {}
- puts ("#{name}")
- actor =
- actor
+ actor = {
+	 name: "#{name}"
+ }
 end
 
 def monopoly
