@@ -4,6 +4,7 @@ end
 
 def actor(name)
  actor = {} << "#{name}"
+ actor
 end
 
 def monopoly
