@@ -5,7 +5,7 @@ end
 def actor(name)
  actor = {}
  puts ("#{name}")
- actor = 
+ actor =
  actor
 end
 
