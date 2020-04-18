@@ -4,7 +4,7 @@ end
 
 def actor(name)
  actor = {
-	 key: "#{name}"
+	 name: "Dwayne The Rock Johnson"
  }
 end
 
