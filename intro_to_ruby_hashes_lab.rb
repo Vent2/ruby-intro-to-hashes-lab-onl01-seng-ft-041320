@@ -5,7 +5,8 @@ end
 def actor(name)
  actor = {}
  puts ("#{name}")
- actor = name
+ actor = 
+ actor
 end
 
 def monopoly
